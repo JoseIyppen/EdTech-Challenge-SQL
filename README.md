@@ -1,4 +1,4 @@
-# -Nextwave-sql
+# EdTech Challenge-SQL
 
 
 Context
